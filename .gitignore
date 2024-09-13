@@ -1,0 +1,7 @@
+*.hex
+*.out
+*.slxc
+*.mex*
+*.autosave
+*.bak
+slprj/
